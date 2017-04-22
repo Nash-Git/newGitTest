@@ -1,0 +1,10 @@
+body{
+	background: #888;
+}
+
+.secondary{
+	background: white;
+	color: red;
+	font-family: arial;
+	text-align: center;
+}
